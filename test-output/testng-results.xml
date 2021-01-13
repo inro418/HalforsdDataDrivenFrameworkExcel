@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="114624" started-at="2021-01-13T01:14:09Z" finished-at="2021-01-13T01:16:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="114624" started-at="2021-01-13T01:14:09Z" finished-at="2021-01-13T01:16:03Z">
+      <class name="utils.ExcelDataProvider">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:utils.ExcelDataProvider@7cd62f43]" name="setUpTest" is-config="true" duration-ms="23" started-at="2021-01-13T01:14:09Z" finished-at="2021-01-13T01:14:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@7cd62f43]" name="test1" duration-ms="40302" started-at="2021-01-13T01:14:09Z" data-provider="test1data" finished-at="2021-01-13T01:14:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[inro4ebony@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA@4189]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@7cd62f43]" name="test1" duration-ms="16686" started-at="2021-01-13T01:14:50Z" data-provider="test1data" finished-at="2021-01-13T01:15:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[inro4eboy@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA@4189]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@7cd62f43]" name="test1" duration-ms="20917" started-at="2021-01-13T01:15:06Z" data-provider="test1data" finished-at="2021-01-13T01:15:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[inro4ebony@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA@4186]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@7cd62f43]" name="test1" duration-ms="17322" started-at="2021-01-13T01:15:27Z" data-provider="test1data" finished-at="2021-01-13T01:15:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[inro4eboy@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA@4189]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@7cd62f43]" name="test1" duration-ms="18550" started-at="2021-01-13T01:15:45Z" data-provider="test1data" finished-at="2021-01-13T01:16:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[inro4eybony@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA@4185]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- utils.ExcelDataProvider -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
