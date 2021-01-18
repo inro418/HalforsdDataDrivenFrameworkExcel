@@ -3,7 +3,9 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
+      <class name="utils.Screenshots"/>
       <class name="utils.ExcelDataProvider"/>
+      <class name="utils.ExtentReportsTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

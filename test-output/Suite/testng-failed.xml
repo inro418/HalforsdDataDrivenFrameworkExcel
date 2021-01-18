@@ -3,12 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test name="Test(failed)">
     <classes>
-      <class name="utils.ExcelDataProvider">
+      <class name="utils.Screenshots">
         <methods>
-          <include name="setUpTest"/>
-          <include name="test1"/>
+          <include name="CaptureScreenshot"/>
         </methods>
-      </class> <!-- utils.ExcelDataProvider -->
+      </class> <!-- utils.Screenshots -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
